@@ -1,0 +1,12 @@
+String Handling:
+-----------------
+java.lang.String
+java.lang.StringBuilder
+java.lang.StringBuffer
+
+Date Manipulation:
+------------------
+java.util.Date
+java.utl.GregorianCalendar - to do math with the dates
+java.text.DateFormat - to format the date and display string date. Its object is instantiated through the factory mathods of this class.
+
